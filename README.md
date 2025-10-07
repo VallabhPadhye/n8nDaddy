@@ -3,6 +3,7 @@
 > Your conversational AI assistant for creating n8n workflow agents through simple chat interactions
 
 n8nDaddy is an intelligent agent that generates n8n workflow JSON scripts and detailed instructions based on your requirements, gathered through natural conversation via Telegram. No more complex workflow building - just describe what you need, and n8nDaddy delivers ready-to-use n8n agents directly to your inbox.
+<img width="90%" height="90%" alt="image" src="https://github.com/user-attachments/assets/0a3465ec-77c2-412f-8655-7528eb40c5cd" />
 
 ## ✨ Features
 
